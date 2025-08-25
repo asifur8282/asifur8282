@@ -1,4 +1,3 @@
-
 <h2 align="left">Hi 👋! I am Asifur and I'm a ML/CV enthusiast from India</h2>
 ---
 
@@ -58,13 +57,13 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="70%">
 
-![](https://github-readme-stats.vercel.app/api?username=asifur8282&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=asifur8282&theme=neon&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=asifur8282&theme=neon&hide_border=false&include_all_commits=true&count_private=false&card_width=600)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=asifur8282&theme=neon&hide_border=false&card_width=600)
 
 </td>
-<td width="40%">
+<td width="30%">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asifur8282&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
@@ -78,18 +77,23 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 
 ![](https://github-contributor-stats.vercel.app/api?username=asifur8282&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </td>
-<td width="40%">
+<td width="50%">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asifur8282&theme=chartreuse-dark&area=false" height="200" alt="activity graph" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=asifur8282&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=400)
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<!-- Contribution Graph moved below in full width -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asifur8282&theme=chartreuse-dark&area=false" height="300" width="100%" alt="activity graph" />
 
 ---
 
