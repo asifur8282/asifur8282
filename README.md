@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋! I am Asifur and I'm a ML/CV enthusiast from India</h1>
 ---
 <p align="center">
-  <img src="assets/intro.gif" alt="Project Banner" width="1000"/>
+  <img src="assets/intro2.gif" alt="Project Banner" width="1000"/>
 </p>
 
 # 💫 About Me:
