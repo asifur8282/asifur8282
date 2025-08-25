@@ -73,22 +73,14 @@
 
 ---
 
-### 🔝 Top Contributed Repo + Contribution Graph
+# 🔝 Top Contributed Repo + Contribution Graph  
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
+  <img align="left" src="https://github-contributor-stats.vercel.app/api?username=asifur8282&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo Stats" />
+  
+  <img align="right" src="assets/catgif.gif" width="300" alt="Cool Cat GIF" />
+</p>
 
-![](https://github-contributor-stats.vercel.app/api?username=asifur8282&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</td>
-<td width="50%">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=asifur8282&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=400)
-
-</td>
-</tr>
-</table>
 
 <br/>
 
