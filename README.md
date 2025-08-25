@@ -56,13 +56,13 @@
 
 <table>
 <tr>
-<td width="70%">
+<td width="65%">
 
 ![](https://github-readme-stats.vercel.app/api?username=asifur8282&theme=neon&hide_border=false&include_all_commits=true&count_private=false&card_width=600)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=asifur8282&theme=neon&hide_border=false&card_width=600)
 
 </td>
-<td width="30%">
+<td width="35%">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asifur8282&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
@@ -73,9 +73,8 @@
 ---
 
 # 🔝 Top Contributed Repo + Contribution Graph  
-
 <p align="center">
-  <img align="left" src="https://github-contributor-stats.vercel.app/api?username=asifur8282&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo Stats" />
+  <img align="left" src="https://github-contributor-stats.vercel.app/api?username=asifur8282&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="500" alt="Top Contributed Repo Stats" />
   
   <img align="right" src="assets/catgif.gif" width="300" alt="Cool Cat GIF" />
 </p>
