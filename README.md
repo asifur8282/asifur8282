@@ -76,7 +76,7 @@
 <p align="center">
   <img align="left" src="https://github-contributor-stats.vercel.app/api?username=asifur8282&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="500" alt="Top Contributed Repo Stats" />
   
-  <img align="right" src="assets/catgif.gif" width="280" alt="Cool Cat GIF" />
+  <img src="assets/catgif.gif" width="280" alt="Cool Cat GIF" />
 </p>
 
 
