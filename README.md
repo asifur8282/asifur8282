@@ -23,17 +23,17 @@
 
 ---
 
-## 🌐 Connect with me::
+#🌐 Connect with me::
 <p align="left">
   <a href="https://linkedin.com/in/asifur06rahaman" target="blank">
     <img align="center" 
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
          alt="asifur06rahaman" height="30" width="40" />
   </a>
-  <a href="mailto:asifurrahaman2018@gmail.com" target="blank">
+  <a href="mailto:asifurrahaman2018@gmail.com" target="_blank">
     <img align="center" 
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" 
-         alt="asifurrahaman2018@gmail.com)" height="30" width="40" />
+         src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" 
+         alt="Gmail" height="30" width="40" />
   </a>
 </p>
 
