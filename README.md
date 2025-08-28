@@ -23,8 +23,20 @@
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asifur06rahaman)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asifurrahaman2018@gmail.com)  
+## 🌐 Connect with me::
+<p align="left">
+  <a href="https://linkedin.com/in/asifur06rahaman" target="blank">
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+         alt="asifur06rahaman" height="30" width="40" />
+  </a>
+  <a href="mailto:asifurrahaman2018@gmail.com" target="blank">
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" 
+         alt="asifurrahaman2018@gmail.com)" height="30" width="40" />
+  </a>
+</p>
+
 
 ---
 
