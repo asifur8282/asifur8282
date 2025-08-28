@@ -48,58 +48,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
----
-
-# 📊 GitHub Stats:
-
-<table>
-<tr>
-<td width="65%">
-
-![](https://github-readme-stats.vercel.app/api?username=asifur8282&theme=neon&hide_border=false&include_all_commits=true&count_private=false&card_width=600)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=asifur8282&theme=neon&hide_border=false&card_width=600)
-
-</td>
-<td width="35%">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=asifur8282&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-</td>
-</tr>
-</table>
-
----
-
-# 🔝 Top Contributed Repo + Contribution Graph  
-<p align="center">
-  <img align="left" src="https://github-contributor-stats.vercel.app/api?username=asifur8282&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="500" alt="Top Contributed Repo Stats" />
-  
-  <img src="assets/catgif.gif" width="280" alt="Cool Cat GIF" />
-</p>
-
-
-<br/>
-
-<!-- Contribution Graph moved below in full width -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asifur8282&theme=chartreuse-dark&area=false" height="300" width="100%" alt="activity graph" />
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-###
-<img src="https://raw.githubusercontent.com/asifur8282/asifur8282/output/snake.svg" alt="Snake animation" />
-
-[![](https://visitcount.itsvg.in/api?id=asifur8282&icon=0&color=12)](https://visitcount.itsvg.in)
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -162,4 +110,53 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/> 
   </a> 
 </p>
+
+---
+
+# 📊 GitHub Stats:
+
+<table>
+<tr>
+<td width="65%">
+
+![](https://github-readme-stats.vercel.app/api?username=asifur8282&theme=neon&hide_border=false&include_all_commits=true&count_private=false&card_width=600)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=asifur8282&theme=neon&hide_border=false&card_width=600)
+
+</td>
+<td width="35%">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=asifur8282&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🔝 Top Contributed Repo + Contribution Graph  
+<p align="center">
+  <img align="left" src="https://github-contributor-stats.vercel.app/api?username=asifur8282&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="500" alt="Top Contributed Repo Stats" />
+  
+  <img src="assets/catgif.gif" width="280" alt="Cool Cat GIF" />
+</p>
+
+
+<br/>
+
+<!-- Contribution Graph moved below in full width -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asifur8282&theme=chartreuse-dark&area=false" height="300" width="100%" alt="activity graph" />
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+###
+<img src="https://raw.githubusercontent.com/asifur8282/asifur8282/output/snake.svg" alt="Snake animation" />
+
+[![](https://visitcount.itsvg.in/api?id=asifur8282&icon=0&color=12)](https://visitcount.itsvg.in)
+
+
 
