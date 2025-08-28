@@ -2,6 +2,7 @@
   <img src="assets/intro2.gif" alt="Project Banner" width="1000"/>
 </p>
 
+
 # 💫 About Me:
 
 <table>
@@ -21,7 +22,9 @@
 </tr>
 </table>
 
+
 ---
+
 
 # 🌐 Connect with me::
 <p align="left">
@@ -36,7 +39,10 @@
          alt="asifurrahaman2018@gmail.com" height="85" width="75" />
   </a>
 </p>
+
+
 ---
+
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -119,7 +125,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/> 
   </a> 
 </p>
+
+
 ---
+
+
 # 📊 GitHub Stats:
 
 <table>
