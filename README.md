@@ -129,8 +129,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
   </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://db0dce98.delivery.rocketcdn.me/en/files/2022/01/illu_pandas-82-1024x562.png" alt="pandas" width="70" height="40"/> 
-  </a> 
+  <img
+    src="https://db0dce98.delivery.rocketcdn.me/en/files/2022/01/illu_pandas-82-1024x562.png"
+    alt="pandas"
+    width="70"
+    height="40"
+    style="object-fit:cover; object-position:center 55%; vertical-align:middle;"
+  />
+</a>
+
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> 
   </a> 
