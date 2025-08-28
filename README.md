@@ -28,16 +28,17 @@
 
 # 🌐 Connect with me::
 <p align="left">
-  <a href="https://linkedin.com/in/asifur06rahaman" target="blank">
-    <img align="center" 
-         src="assets/linkedin_img.svg" 
-         alt="asifur06rahaman" height="50" width="40" />
-    &nbsp
-  </a>
-  <a href="mailto:asifurrahaman2018@gmail.com" target="blank">
-    <img align="center" src="assets/mail_img.png" 
-         alt="asifurrahaman2018@gmail.com" height="85" width="75" />
-  </a>
+  <a href="https://linkedin.com/in/asifur06rahaman" target="blank">
+    <img align="center" 
+         src="assets/linkedin_img.svg" 
+         alt="asifur06rahaman" height="50" width="40" />
+    &nbsp
+  </a>
+  <a href="mailto:asifurrahaman2018@gmail.com" target="blank">
+    <img align="center" 
+           src="./assets/mail_img.png" 
+         alt="asifurrahaman2018@gmail.com" height="85" width="75" />
+  </a>
 </p>
 
 
