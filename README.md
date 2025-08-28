@@ -30,12 +30,12 @@
 <p align="left">
   <a href="https://linkedin.com/in/asifur06rahaman" target="blank">
     <img align="center" 
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+         src="assets/linkedin_img.svg" 
          alt="asifur06rahaman" height="50" width="40" />
     &nbsp
   </a>
   <a href="mailto:asifurrahaman2018@gmail.com" target="blank">
-    <img align="center" src="https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-02-512.png" 
+    <img align="center" src="assets/mail_img.png" 
          alt="asifurrahaman2018@gmail.com" height="85" width="75" />
   </a>
 </p>
