@@ -27,7 +27,7 @@
 
 
 
-# 🌐 Connect with me::
+# 🌐 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/asifur06rahaman" target="blank">
     <img align="center" 
