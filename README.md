@@ -165,6 +165,9 @@
 
 <!-- Contribution Graph moved below in full width -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifur8282&theme=chartreuse-dark&area=false" height="300" width="100%" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asifur8282&radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  />
+
+###
 
 <table>
 <tr>
