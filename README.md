@@ -18,7 +18,7 @@
 </td>
 <td width="40%" align="center">
 
-<img src="assets/aboutgif.gif" alt="GitHub Activity Graph" width=250px />
+<img src="assets/aboutgif.gif" alt="About Gif" width=400px />
 
 </td>
 </tr>
@@ -174,7 +174,7 @@
 
 </td>
 <td width="35%">
-<img src="assets/yourgif.gif" width="400" alt="about me gif" />
+<img src="assets/yourgif.gif"  alt="about me gif" />
 </td>
 </tr>
 </table>
