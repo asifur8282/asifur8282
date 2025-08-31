@@ -180,20 +180,17 @@
     
   </table>
 
+<!-- Contribution Graph moved below in full width -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asifur8282&theme=chartreuse-dark&area=false" height="300" width="100%" alt="activity graph" />
+
 ---
 
-# 🔝 Top Contributed Repo + Contribution Graph  
+# 🔝 Top Contributed Repo
 <p align="center">
   <img align="left" src="https://github-contributor-stats.vercel.app/api?username=asifur8282&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="500" alt="Top Contributed Repo Stats" />
   
   <img src="assets/catgif.gif" width="280" alt="Cool Cat GIF" />
 </p>
-
-
-<br/>
-
-<!-- Contribution Graph moved below in full width -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asifur8282&theme=chartreuse-dark&area=false" height="300" width="100%" alt="activity graph" />
 
 ---
 
