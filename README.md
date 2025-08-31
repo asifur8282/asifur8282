@@ -175,7 +175,7 @@
 </td>
 <td width="35%">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=asifur8282&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![alt text](https://miro.medium.com/v2/resize:fit:640/format:webp/1*Z_-lE3mQOr4WKudO37gihQ.gif)
 
 </td>
 </tr>
