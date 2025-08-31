@@ -18,7 +18,7 @@
 </td>
 <td width="40%" align="center">
 
-![alt text](https://miro.medium.com/v2/resize:fit:640/format:webp/1*Z_-lE3mQOr4WKudO37gihQ.gif)
+<img src="assets/aboutgif.gif" alt="GitHub Activity Graph" width=250px />
 
 </td>
 </tr>
@@ -143,7 +143,7 @@
   <table>
     <tr>
      <td>
-      <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfsuBXl_g0CHPuEqjRQvjJMRK5LXPSsRy-E1Y4YHPpkRWgY393LQnuEIyEiD7heN6DaxN3Y_I3DKu9LNWOQNL-92Oyz2jcmz9AfsnVRlTgmDz82n84QlBvflHqP3diddoj1z1mjJde5fv5-pRi5V0EtyNXP?key=gZ51Zx2RDV4NAigjaEf4VQ" alt="GitHub Activity Graph" width=250px />
+      <img src="assets/statcat.gif" alt="GitHub Activity Graph" width=250px />
      </td>
      <td>
         <img 
