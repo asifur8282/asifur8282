@@ -158,13 +158,12 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asifur8282&theme=nightowl" alt="GitHub Summarry Card"/>
    </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifur8282&theme=synthwave&layout=donut&hide_border=true" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifur8282&theme=nightowl&layout=donut&hide_border=true" alt="Top Languages"/>
       </td>
     
   </table>
 
 <!-- Contribution Graph moved below in full width -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asifur8282&theme=chartreuse-dark&area=false" height="300" width="100%" alt="activity graph" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifur8282&radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  />
 
 ###
