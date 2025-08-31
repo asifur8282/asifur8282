@@ -13,7 +13,7 @@
 ### 🤝 I'm looking for help with *Deep Learning for Human Attention*.<br>  
 ### 🌱 I'm currently learning *Deep Learning with TensorFlow, YOLO Model,* and trying to master *OpenCV*.  
 
-<img src="https://komarev.com/ghpvc/?username=asifur8282" width="150" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=asifur8282" width="125" alt="views" />
 
 </td>
 <td width="40%" align="center">
