@@ -143,7 +143,7 @@
 </table>
   <table>
     <tr>
-     <td width= "25%">
+     <td width= "25%" height= "100%">
       <img src="assets/statcat.gif" alt="Stats cat main"/>
      </td>
      <td width= "75%">
