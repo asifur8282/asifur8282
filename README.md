@@ -17,8 +17,7 @@
 
 </td>
 <td width="40%" align="center">
-
-<img src="assets/yourgif.gif" width="400" alt="about me gif" />
+![alt text](https://miro.medium.com/v2/resize:fit:640/format:webp/1*Z_-lE3mQOr4WKudO37gihQ.gif)
 
 </td>
 </tr>
@@ -174,9 +173,7 @@
 
 </td>
 <td width="35%">
-
-![alt text](https://miro.medium.com/v2/resize:fit:640/format:webp/1*Z_-lE3mQOr4WKudO37gihQ.gif)
-
+<img src="assets/yourgif.gif" width="400" alt="about me gif" />
 </td>
 </tr>
 </table>
