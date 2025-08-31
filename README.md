@@ -170,8 +170,8 @@
 <tr>
 <td width="65%">
 
-![](https://github-readme-stats.vercel.app/api?username=asifur8282&theme=neon&hide_border=false&include_all_commits=true&count_private=false&card_width=600)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=asifur8282&theme=neon&hide_border=false&card_width=600)
+![](https://github-readme-stats.vercel.app/api?username=asifur8282&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&card_width=600)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=asifur8282&theme=nightowl&hide_border=false&card_width=600)
 
 </td>
 <td width="35%">
