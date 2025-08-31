@@ -143,10 +143,10 @@
 </table>
   <table>
     <tr>
-     <td>
+     <td width= "25%">
       <img src="assets/statcat.gif" alt="Stats cat main" width=250px />
      </td>
-     <td>
+     <td width= "75%">
         <img 
          src="https://github-readme-stats.vercel.app/api?username=asifur8282&theme=nightowl&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&show=prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub Stats" width=500px height=300px />
       </td>
