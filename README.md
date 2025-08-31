@@ -140,17 +140,15 @@
 
 # 📊 GitHub Stats:
 
-<img src="assets/statcat.gif" alt="Stats cat main" width=200px/>
-
- <img  src="https://github-readme-stats.vercel.app/api?username=asifur8282&theme=nightowl&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&show=prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub Stats" width= 800px />
 </table>
   <table>
     <tr>
      <td >
-      
+      <img src="assets/statcat.gif" alt="Stats cat main" width=200px/>
      </td>
      <td >
-       
+        <img 
+         src="https://github-readme-stats.vercel.app/api?username=asifur8282&theme=nightowl&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&show=prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub Stats" width= 1200px />
       </td>
      </tr>
     
