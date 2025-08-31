@@ -17,6 +17,7 @@
 
 </td>
 <td width="40%" align="center">
+
 ![alt text](https://miro.medium.com/v2/resize:fit:640/format:webp/1*Z_-lE3mQOr4WKudO37gihQ.gif)
 
 </td>
