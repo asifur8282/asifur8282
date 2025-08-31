@@ -11,7 +11,8 @@
   
 ### 🔭 I'm currently working on *Computer Vision and Machine Learning*.<br>  
 ### 🤝 I'm looking for help with *Deep Learning for Human Attention*.<br>  
-### 🌱 I'm currently learning *Deep Learning with TensorFlow, YOLO Model,* and trying to master *OpenCV*.  
+### 🌱 I'm currently learning *Deep Learning with TensorFlow, YOLO Model,* and trying to master *OpenCV*. 
+### 📫 How to reach me *asifurrahaman2019@gmail.com*
 
 <img src="https://komarev.com/ghpvc/?username=asifur8282" width="125" alt="views" />
 
