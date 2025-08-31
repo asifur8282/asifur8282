@@ -18,7 +18,7 @@
 </td>
 <td width="40%" align="center">
 
-<img src="assets/about4.gif" alt="About Gif" width=400px />
+<img src="assets/about5.gif" alt="About Gif" width=400px />
 
 </td>
 </tr>
