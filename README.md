@@ -174,7 +174,7 @@
 
 </td>
 <td width="35%">
-<img src="assets/yourgif.gif"  alt="about me gif" />
+<img src="assets/robo.gif"  alt="about me gif" />
 </td>
 </tr>
 </table>
