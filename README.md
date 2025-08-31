@@ -165,17 +165,17 @@
      </td>
      <td>
         <img 
-         src="https://github-readme-stats.vercel.app/api?username=quantum7coder&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&show=prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub Stats"/>
+         src="https://github-readme-stats.vercel.app/api?username=asifur8282&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&show=prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub Stats"/>
       </td>
      </tr>
     
   </table>
   <table>
    <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quantum7coder&theme=nightowl" alt="GitHub Summarry Card"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asifur8282&theme=nightowl" alt="GitHub Summarry Card"/>
    </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantum7coder&theme=synthwave&layout=donut&hide_border=true" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifur8282&theme=synthwave&layout=donut&hide_border=true" alt="Top Languages"/>
       </td>
     
   </table>
