@@ -144,7 +144,7 @@
   <table>
     <tr>
      <td width= "25%" height= "100%">
-      <img src="assets/statcat.gif" alt="Stats cat main" width=50px/>
+      <img src="assets/statcat.gif" alt="Stats cat main" width=200px/>
      </td>
      <td width= "75%">
         <img 
