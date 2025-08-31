@@ -43,6 +43,11 @@
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=asifur8282&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -162,11 +167,6 @@
 
 <!-- Contribution Graph moved below in full width -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifur8282&theme=chartreuse-dark&area=false" height="300" width="100%" alt="activity graph" />
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=asifur8282&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
