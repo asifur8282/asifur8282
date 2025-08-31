@@ -139,24 +139,6 @@
 
 # 📊 GitHub Stats:
 
-<table>
-<tr>
-<td width="65%">
-
-![](https://github-readme-stats.vercel.app/api?username=asifur8282&theme=neon&hide_border=false&include_all_commits=true&count_private=false&card_width=600)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=asifur8282&theme=neon&hide_border=false&card_width=600)
-
-</td>
-<td width="35%">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=asifur8282&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-</td>
-</tr>
-</table>
-
----
-
 </table>
   <table>
     <tr>
@@ -182,6 +164,22 @@
 
 <!-- Contribution Graph moved below in full width -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifur8282&theme=chartreuse-dark&area=false" height="300" width="100%" alt="activity graph" />
+
+<table>
+<tr>
+<td width="65%">
+
+![](https://github-readme-stats.vercel.app/api?username=asifur8282&theme=neon&hide_border=false&include_all_commits=true&count_private=false&card_width=600)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=asifur8282&theme=neon&hide_border=false&card_width=600)
+
+</td>
+<td width="35%">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=asifur8282&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+</td>
+</tr>
+</table>
 
 ---
 
