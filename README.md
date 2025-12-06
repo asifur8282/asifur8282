@@ -139,51 +139,63 @@
 
 ---
 
-
 # 📊 GitHub Stats:
 
+<table>
+  <tr>
+    <td width="450">
+      <img src="assets/statcat.gif" alt="Stats cat main" width="250" />
+    </td>
+    <td>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asifur8282&theme=nightowl"
+        alt="GitHub Stats"
+        height="200"
+      />
+    </td>
+  </tr>
 </table>
-  <table>
-    <tr>
-     <td >
-      <img src="assets/statcat.gif" alt="Stats cat main" width=200px/>
-     </td>
-     <td >
-        <img 
-         src="https://github-readme-stats.vercel.app/api?username=asifur8282&theme=nightowl&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&show=prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub Stats" width= 1200px />
-      </td>
-     </tr>
-    
-  </table>
 
-<!-- Contribution Graph moved below in full width -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asifur8282&radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  />
+<!-- Contribution Graph full width -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=asifur8282&radius=16&theme=nightowl&area=true&order=5"
+  height="300"
+  alt="activity-graph graph"
+/>
 
 ###
 
 <table>
-<tr>
-<td width="65%">
-
-![](https://github-readme-stats.vercel.app/api?username=asifur8282&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&card_width=600)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=asifur8282&theme=nightowl&hide_border=false&card_width=600)
-
-</td>
-<td width="35%">
-<img src="assets/robo.gif"  alt="about me gif" />
-</td>
-</tr>
+  <tr>
+    <td width="65%">
+      <img
+        src="https://nirzak-streak-stats.vercel.app/?user=asifur8282&theme=nightowl&hide_border=false&card_width=600"
+        alt="GitHub Streak"
+      />
+    </td>
+    <td width="35%">
+      <img src="assets/robo.gif" alt="about me gif" />
+    </td>
+  </tr>
 </table>
 
- <table>
-   <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asifur8282&theme=nightowl" alt="GitHub Summarry Card"/>
-   </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifur8282&theme=nightowl&layout=donut&hide_border=true" alt="Top Languages"/>
-      </td>
-    
-  </table>
+<!-- Row 2: Profile summary (purple graph) + Top languages by commit -->
+<table>
+  <tr>
+    <td width="65%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asifur8282&theme=nightowl"
+        alt="GitHub profile details"
+      />
+    </td>
+    <td width="35%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asifur8282&theme=nightowl"
+        alt="Top Languages by Commit"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
