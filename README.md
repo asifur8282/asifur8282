@@ -141,20 +141,12 @@
 
 # 📊 GitHub Stats:
 
-<table>
-  <tr>
-    <td width="200">
-      <img src="assets/statcat.gif" alt="Stats cat main" width="200" />
-    </td>
-    <td>
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asifur8282&theme=nightowl"
-        alt="GitHub Stats"
-        height="200"
-      />
-    </td>
-  </tr>
-</table>
+<!-- Row 1: Statcat + Stats -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 16px;">
+  <img src="assets/statcat.gif" width="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asifur8282&theme=nightowl" height="200"/>
+</div>
+
 
 <!-- Contribution Graph full width -->
 <img
