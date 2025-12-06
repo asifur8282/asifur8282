@@ -110,7 +110,7 @@
 
 <table>
   <tr>
-    <td width="220">
+    <td width="300">
       <img src="assets/statcat.gif" alt="Stats cat main" width="200" />
     </td>
     <td>
@@ -136,10 +136,6 @@
   <tr>
     <td width="65%">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asifur8282&theme=nightowl"
-        alt="GitHub profile details"
-      /><br/>
-      <img
         src="https://nirzak-streak-stats.vercel.app/?user=asifur8282&theme=nightowl&hide_border=false&card_width=600"
         alt="GitHub Streak"
       />
@@ -150,15 +146,16 @@
   </tr>
 </table>
 
+<!-- Row 2: Profile summary (purple graph) + Top languages by commit -->
 <table>
   <tr>
-    <td>
+    <td width="65%">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asifur8282&theme=nightowl"
-        alt="Top Languages by Repo"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asifur8282&theme=nightowl"
+        alt="GitHub profile details"
       />
     </td>
-    <td>
+    <td width="35%">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asifur8282&theme=nightowl"
         alt="Top Languages by Commit"
@@ -167,4 +164,3 @@
   </tr>
 </table>
 
----
