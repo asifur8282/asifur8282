@@ -115,7 +115,7 @@
     </td>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=asifur8282&theme=nightowl&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&show=prs_merged,prs_merged_percentage&rank_icon=github"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asifur8282&theme=nightowl"
         alt="GitHub Stats"
         height="200"
       />
@@ -135,8 +135,14 @@
 <table>
   <tr>
     <td width="65%">
-      <img src="https://github-readme-stats.vercel.app/api?username=asifur8282&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&card_width=600" alt="GitHub Stats card" /><br/>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=asifur8282&theme=nightowl&hide_border=false&card_width=600" alt="GitHub Streak" />
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asifur8282&theme=nightowl"
+        alt="GitHub profile details"
+      /><br/>
+      <img
+        src="https://nirzak-streak-stats.vercel.app/?user=asifur8282&theme=nightowl&hide_border=false&card_width=600"
+        alt="GitHub Streak"
+      />
     </td>
     <td width="35%">
       <img src="assets/robo.gif" alt="about me gif" />
@@ -148,20 +154,17 @@
   <tr>
     <td>
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asifur8282&theme=nightowl"
-        alt="GitHub Summary Card"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asifur8282&theme=nightowl"
+        alt="Top Languages by Repo"
       />
     </td>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifur8282&theme=nightowl&layout=donut&hide_border=true"
-        alt="Top Languages"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asifur8282&theme=nightowl"
+        alt="Top Languages by Commit"
       />
     </td>
   </tr>
 </table>
 
 ---
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
