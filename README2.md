@@ -108,59 +108,42 @@
 
 # 📊 GitHub Stats:
 
-<table>
-  <tr>
-    <td width="450">
-      <img src="assets/statcat.gif" alt="Stats cat main" width="250" />
-    </td>
-    <td>
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asifur8282&theme=nightowl"
-        alt="GitHub Stats"
-        height="200"
-      />
-    </td>
-  </tr>
-</table>
+<!-- Row 1: Statcat + Stats -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 16px;">
+  <img src="assets/statcat.gif" width="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asifur8282&theme=nightowl" height="200"/>
+</div>
 
-<!-- Contribution Graph full width -->
+<!-- Full width Graph -->
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=asifur8282&radius=16&theme=nightowl&area=true&order=5"
   height="300"
-  alt="activity-graph graph"
+  width="100%"
 />
 
-###
+---
 
-<table>
-  <tr>
-    <td width="65%">
-      <img
-        src="https://nirzak-streak-stats.vercel.app/?user=asifur8282&theme=nightowl&hide_border=false&card_width=600"
-        alt="GitHub Streak"
-      />
-    </td>
-    <td width="35%">
-      <img src="assets/robo.gif" alt="about me gif" />
-    </td>
-  </tr>
-</table>
+<!-- Row 2: Streak + Robo GIF -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 16px;">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=asifur8282&theme=nightowl&hide_border=false&card_width=600" width="100%"/>
+  
+  <img src="assets/robo.gif" width="300"/>
+</div>
 
-<!-- Row 2: Profile summary (purple graph) + Top languages by commit -->
-<table>
-  <tr>
-    <td width="65%">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asifur8282&theme=nightowl"
-        alt="GitHub profile details"
-      />
-    </td>
-    <td width="35%">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asifur8282&theme=nightowl"
-        alt="Top Languages by Commit"
-      />
-    </td>
-  </tr>
-</table>
+---
+
+<!-- Row 3: Profile Summary + Top Languages by Commit -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 16px;">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asifur8282&theme=nightowl"
+    width="100%"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asifur8282&theme=nightowl"
+    width="300"
+  />
+</div>
+
+---
 
