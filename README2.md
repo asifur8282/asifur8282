@@ -110,8 +110,8 @@
 
 <table>
   <tr>
-    <td width="300">
-      <img src="assets/statcat.gif" alt="Stats cat main" width="200" />
+    <td width="450">
+      <img src="assets/statcat.gif" alt="Stats cat main" width="250" />
     </td>
     <td>
       <img
