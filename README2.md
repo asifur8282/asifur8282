@@ -125,12 +125,21 @@
 
 <!-- Row 2: Streak + Robo GIF -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 16px;">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=asifur8282&theme=nightowl&hide_border=false&card_width=600" width="100%"/>
-  
-  <img src="assets/robo.gif" width="300"/>
+
+  <img
+    src="https://nirzak-streak-stats.vercel.app/?user=asifur8282&theme=nightowl&hide_border=false&card_width=600"
+    alt="GitHub Streak"
+    style="flex: 1 1 380px; max-width: 100%;"
+  />
+
+  <img
+    src="assets/robo.gif"
+    alt="about me gif"
+    style="flex: 0 1 260px; max-width: 100%;"
+  />
+
 </div>
 
----
 
 <!-- Row 3: Profile Summary + Top Languages by Commit -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 16px;">
