@@ -13,7 +13,7 @@
 ### 🤝 I'm looking for help with *Deep Learning for Human Attention*.<br>  
 ### 🌱 I'm currently learning *Deep Learning with TensorFlow, YOLO Model,* and trying to master *OpenCV*. 
 ### 📫 How to reach me *asifurrahaman2019@gmail.com*
-### 🪪 Here is my portfoilio
+### 🪪 Here is my portfolio
 *[asifur-rahaman-portfolio.vercel.app](https://asifur-rahaman-portfolio.vercel.app/)*
 
 
