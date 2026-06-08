@@ -106,7 +106,7 @@
   </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
   <img
-    src="https://db0dce98.delivery.rocketcdn.me/en/files/2022/01/illu_pandas-82-1024x562.png"
+    src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png"
     alt="pandas"
     width="70"
     height="40"
