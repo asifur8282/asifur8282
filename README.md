@@ -106,12 +106,12 @@
   </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
   <img
-  src="https://copilot.microsoft.com/th/id/BCO.96568f7c-5796-451d-8ead-b33859b2d764.png"
-  alt="pandas"
-  width="90"
-  height="50"
-  style="object-fit:cover; object-position:center; vertical-align:middle; background-color:white;"
-/>
+    src="https://miro.medium.com/v2/1*pJnfAWcDbz7qnQr7at3jkw.png"
+    alt="pandas"
+    width="70"
+    height="40"
+    style="object-fit:cover; object-position:center 55%; vertical-align:middle;"
+  />
 </a>
 
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
