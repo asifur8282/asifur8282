@@ -108,10 +108,9 @@
   <img
   src="https://copilot.microsoft.com/th/id/BCO.8906a653-644a-4fd9-a07c-b2d05695e30b.png"
   alt="pandas"
-  width="140"
-  height="80"
-  style="object-fit:cover; object-position:center 55%; vertical-align:middle;"
+  style="transform:scale(1.5); transform-origin:center; object-fit:cover; vertical-align:middle;"
 />
+
 
 </a>
 
