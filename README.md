@@ -108,7 +108,7 @@
   <img
     src="https://miro.medium.com/v2/1*pJnfAWcDbz7qnQr7at3jkw.png"
     alt="pandas"
-    width="70"
+    width="100"
     height="40"
     style="object-fit:cover; object-position:center 55%; vertical-align:middle;"
   />
