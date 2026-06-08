@@ -136,6 +136,11 @@
   </a> 
 </p>
 
+---
+
+# 📊 All in One Stats:
+
+![github stats](https://api-github-readme-stats.vercel.app/api/stats/custom?username=asifur8282&theme=github_dark&elements=stars%2Ccommits%2Cprs%2Ccontributed%2Cheatmap%2Ctotal_contributions%2Cpublic_repos%2Crepo_stars&from=joined&color_commits=39d353&color_prs=4185c8)
 
 ---
 
