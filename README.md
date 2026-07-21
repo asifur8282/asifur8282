@@ -152,6 +152,20 @@
 
 ###
 
+<table>
+  <tr>
+    <td width="65%">
+      <img
+        src="https://streak-stats.demolab.com/?user=asifur8282&theme=nightowl&hide_border=false&card_width=600"
+        alt="GitHub Streak"
+      />
+    </td>
+    <td width="35%">
+      <img src="assets/robo.gif" alt="about me gif" />
+    </td>
+  </tr>
+</table>
+
 <!-- Row 2: Profile summary (purple graph) + Top languages by commit -->
 <table>
   <tr>

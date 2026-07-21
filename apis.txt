@@ -34,6 +34,6 @@ API URL: https://visitcount.itsvg.in/api?id=asifur8282&icon=0&color=12
 Description: Visitor count badge API. Produces an image showing the number of visits to the user's profile or page provided by the badge service.
 Status: 404 Not Found
 
-API URL: https://nirzak-streak-stats.vercel.app/?user=asifur8282&theme=nightowl&hide_border=false&card_width=600
+API URL: https://streak-stats.demolab.com/?user=asifur8282&theme=nightowl&hide_border=false&card_width=600
 Description: GitHub streak stats badge API. Generates an image showing the user's GitHub contribution streak.
-Status: 402 Deployment Paused
+Status: 200 OK
