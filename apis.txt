@@ -1,0 +1,35 @@
+API URL: https://komarev.com/ghpvc/?username=asifur8282
+Description: GitHub profile view counter badge service. Returns a small image showing the total profile views for the GitHub user.
+Status: 200 OK
+
+API URL: https://github-profile-trophy.vercel.app/?username=asifur8282&theme=radical&no-frame=false&no-bg=true&margin-w=4
+Description: GitHub trophy card badge service. Generates a card with GitHub achievements and stats for the user.
+Status: 402 Payment Required
+
+API URL: https://api-github-readme-stats.vercel.app/api/stats/custom?username=asifur8282&theme=github_dark&elements=stars%2Ccommits%2Cprs%2Ccontributed%2Cheatmap%2Ctotal_contributions%2Cpublic_repos%2Crepo_stars&from=joined&color_commits=39d353&color_prs=4185c8
+Description: GitHub Readme Stats API. Produces a custom statistics card image with repository stars, commits, pull requests, contributions, public repos, and other GitHub metrics.
+Status: 200 OK
+
+API URL: https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asifur8282&theme=nightowl
+Description: GitHub profile summary card API. Generates a statistics card image for the user's GitHub profile.
+Status: 200 OK
+
+API URL: https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asifur8282&theme=nightowl
+Description: GitHub profile details card API. Returns a card image containing profile summary details like followers, stars, and repo count.
+Status: 200 OK
+
+API URL: https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asifur8282&theme=nightowl
+Description: GitHub most commit language card API. Produces an image showing the languages the user has used most in commits.
+Status: 200 OK
+
+API URL: https://github-contributor-stats.vercel.app/api?username=asifur8282&limit=5&theme=tokyonight&combine_all_yearly_contributions=true
+Description: GitHub contributor stats badge API. Creates an image showing top contributed repositories and aggregated contribution stats.
+Status: 402 Payment Required
+
+API URL: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
+Description: Random GitHub dev quote API. Returns a horizontal image containing a random programming/developer quote.
+Status: 200 OK
+
+API URL: https://visitcount.itsvg.in/api?id=asifur8282&icon=0&color=12
+Description: Visitor count badge API. Produces an image showing the number of visits to the user's profile or page provided by the badge service.
+Status: 404 Not Found
