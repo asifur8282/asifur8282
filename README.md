@@ -51,11 +51,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=asifur8282&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -193,8 +188,6 @@
 
 # 🔝 Top Contributed Repo
 <p align="center">
-  <img align="left" src="https://github-contributor-stats.vercel.app/api?username=asifur8282&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="500" alt="Top Contributed Repo Stats" />
-  
   <img src="assets/catgif.gif" width="280" alt="Cool Cat GIF" />
 </p>
 
@@ -207,8 +200,6 @@
 
 ###
 <img src="https://raw.githubusercontent.com/asifur8282/asifur8282/output/snake.svg" alt="Snake animation" />
-
-[![](https://visitcount.itsvg.in/api?id=asifur8282&icon=0&color=12)](https://visitcount.itsvg.in)
 
 
 
