@@ -4,7 +4,7 @@ Status: 200 OK
 
 API URL: https://github-profile-trophy.vercel.app/?username=asifur8282&theme=radical&no-frame=false&no-bg=true&margin-w=4
 Description: GitHub trophy card badge service. Generates a card with GitHub achievements and stats for the user.
-Status: 402 Payment Required
+Status: 402 Deployment Paused
 
 API URL: https://api-github-readme-stats.vercel.app/api/stats/custom?username=asifur8282&theme=github_dark&elements=stars%2Ccommits%2Cprs%2Ccontributed%2Cheatmap%2Ctotal_contributions%2Cpublic_repos%2Crepo_stars&from=joined&color_commits=39d353&color_prs=4185c8
 Description: GitHub Readme Stats API. Produces a custom statistics card image with repository stars, commits, pull requests, contributions, public repos, and other GitHub metrics.
@@ -24,7 +24,7 @@ Status: 200 OK
 
 API URL: https://github-contributor-stats.vercel.app/api?username=asifur8282&limit=5&theme=tokyonight&combine_all_yearly_contributions=true
 Description: GitHub contributor stats badge API. Creates an image showing top contributed repositories and aggregated contribution stats.
-Status: 402 Payment Required
+Status: 402 Deployment Paused
 
 API URL: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
 Description: Random GitHub dev quote API. Returns a horizontal image containing a random programming/developer quote.
@@ -36,4 +36,4 @@ Status: 404 Not Found
 
 API URL: https://nirzak-streak-stats.vercel.app/?user=asifur8282&theme=nightowl&hide_border=false&card_width=600
 Description: GitHub streak stats badge API. Generates an image showing the user's GitHub contribution streak.
-Status: 402 Payment Required
+Status: 402 Deployment Paused
